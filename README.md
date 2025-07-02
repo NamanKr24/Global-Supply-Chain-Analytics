@@ -82,7 +82,7 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 
 ## 🤝 Acknowledgements & Credits
 
-- **Dataset Source**: [DataCo Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets)
+- **Dataset Source**: [DataCo Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
   
 - **Icons**: Icons sourced from [Icons8](https://icons8.com/) for dashboard design elements under their free license.
 
