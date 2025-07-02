@@ -82,8 +82,19 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 
 ## 🤝 Acknowledgements & Credits
 
-- **Dataset Source**: [DataCo Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets)  
-- **Icons**: Icons sourced from [Icons8](https://icons8.com/) for dashboard design elements under their free license.
+- **Dataset Source**: [DataCo Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets)
   
+- **Icons**: Icons sourced from [Icons8](https://icons8.com/) for dashboard design elements under their free license.
 
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+Naman Kumar
+
+📧 Email: namankr24@gmail.com
+
+🔗 GitHub: NamanKr24
