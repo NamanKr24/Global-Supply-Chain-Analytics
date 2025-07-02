@@ -53,7 +53,7 @@ _Key Focus_: Delivery timelines, shipping modes analysis, and high-risk SKU iden
 
 ---
 
-### 4. Order Management
+### 4. Order Dynamics & Revenue Flow
 
 _Key Focus_: Order-level metrics such as payment type distribution, order volumes, and market-wise profit performance.
 
@@ -76,8 +76,14 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 
 ## 📁 Dataset
 
-- The dataset (`DataCoSupplyChainDataset.xlsx`) is included in the `datasets` folder.  
-- Original dataset source: [DataCo Supply Chain dataset on Kaggle](https://www.kaggle.com/datasets) *(insert actual URL if public)*.
+- The dataset (`DataCoSupplyChainDataset.xlsx`) is included in the `datasets` folder.
 
----
+- This project utilizes the **DataCo Supply Chain Dataset**, containing ~18,000 rows of global order transactions, product details, shipping data, and financial metrics to build interactive supply chain insights and performance analyses.
+
+## 🤝 Acknowledgements & Credits
+
+- **Dataset Source**: [DataCo Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets)  
+- **Icons**: Icons sourced from [Icons8](https://icons8.com/) for dashboard design elements under their free license.
+  
+
 
