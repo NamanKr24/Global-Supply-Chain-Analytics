@@ -2,9 +2,11 @@
 
 Unlock actionable insights hidden within complex supply chain data with this end-to-end Power BI dashboard project.
 
+
 ## 📌 Project Overview
 
 Modern supply chains generate massive volumes of data but fail to convert them into impactful decisions. This project bridges that gap by building a dynamic, executive-level dashboard analysing sales, product performance, delivery metrics, and order management across global markets.
+
 
 ## 💡 Problem Statement
 
@@ -16,11 +18,13 @@ Businesses often struggle to monitor end-to-end supply chain performance efficie
 
 This dashboard addresses these by providing targeted insights and streamlined visual storytelling.
 
+
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**: Data cleaning, modelling, DAX measures, and visual design  
 - **Excel**: Raw dataset source (DataCo Supply Chain dataset)  
 - **DAX**: Custom measures for KPIs and advanced visuals
+
 
 ## 📊 Dashboard Structure
 
@@ -62,11 +66,13 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 
 ---
 
+
 ## ✅ Key Outcomes
 
 - Developed a fully interactive, executive-level Power BI dashboard  
 - Identified supply chain bottlenecks and high-risk items to guide targeted interventions  
 - Designed intuitive visual layouts optimised for professional storytelling and stakeholder presentations
+
 
 ## 🚀 How to Use
 
@@ -74,11 +80,13 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 2. Open `Global Supply Chain Analytics Dashboard.pbix` in **Power BI Desktop**  
 3. Refresh data if required and explore the insights
 
+
 ## 📁 Dataset
 
 - The dataset (`DataCoSupplyChainDataset.xlsx`) is included in the `datasets` folder.
 
 - This project utilizes the **DataCo Supply Chain Dataset**, containing ~18,000 rows of global order transactions, product details, shipping data, and financial metrics to build interactive supply chain insights and performance analyses.
+
 
 ## 🤝 Acknowledgements & Credits
 
@@ -90,6 +98,7 @@ _Key Focus_: Order-level metrics such as payment type distribution, order volume
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 ## 📬 Contact
 
