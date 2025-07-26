@@ -34,7 +34,6 @@ The dashboard comprises **four pages**, each with a specific analytical objectiv
 
 _Key Focus_: Overall sales, profit, order quantity, and high-level supply chain KPIs.
 
-**Screenshot:**  
 ![Executive Summary](images/executive_summary.png)
 
 ---
@@ -42,8 +41,7 @@ _Key Focus_: Overall sales, profit, order quantity, and high-level supply chain 
 ### 2. Product Performance
 
 _Key Focus_: Top performing SKUs, sales and profit distributions, and category-level breakdowns.
-
-**Screenshot:**  
+ 
 ![Product Performance](images/product_performance.png)
 
 ---
@@ -51,8 +49,7 @@ _Key Focus_: Top performing SKUs, sales and profit distributions, and category-l
 ### 3. Delivery & Logistics
 
 _Key Focus_: Delivery timelines, shipping modes analysis, and high-risk SKU identification.
-
-**Screenshot:**  
+ 
 ![Delivery & Logistics](images/delivery_logistics.png)
 
 ---
@@ -61,7 +58,6 @@ _Key Focus_: Delivery timelines, shipping modes analysis, and high-risk SKU iden
 
 _Key Focus_: Order-level metrics such as payment type distribution, order volumes, and market-wise profit performance.
 
-**Snapshot:**  
 ![Order Management](images/order_revenue.png)
 
 ---
