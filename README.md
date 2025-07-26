@@ -61,7 +61,7 @@ _Key Focus_: Delivery timelines, shipping modes analysis, and high-risk SKU iden
 
 _Key Focus_: Order-level metrics such as payment type distribution, order volumes, and market-wise profit performance.
 
-**Screenshot:**  
+**Snapshot:**  
 ![Order Management](images/order_revenue.png)
 
 ---
