@@ -1,4 +1,4 @@
-# Global Supply Chain Analytics Dashboard
+# Global Supply Chain Analytics
 
 Unlock actionable insights hidden within complex supply chain data with this end-to-end Power BI dashboard project.
 
